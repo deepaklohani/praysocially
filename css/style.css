@@ -1,0 +1,86 @@
+body {margin:0; padding:0; list-style:none; background:#fff; font-family:'Ubuntu'; font-size:13px;}
+* {margin:0; padding:0; list-style:none; text-decoration:none; outline:none; border:none; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; -o-box-sizing:border-box;}
+input, select {font-family:'Ubuntu';}
+img {max-width:100%;}
+.clear {clear:both;}
+.signin_page {background:url(../images/signin.jpg) no-repeat fixed;}
+.signup_page {background:url(../images/register.jpg) no-repeat fixed;}
+.container {width:1170px; margin:0 auto;}
+.login_register_logo {text-align:center; padding:50px 0;}
+.login_register_logo a {display:inline-block;}
+.form_box {width:600px; margin:0 auto; background:#fff; border-radius:5px; box-shadow:0 0 5px rgba(0,0,0,0.4); padding:50px 100px 30px; text-align:center;}
+.form_box h2 {font-size:35px; font-weight:300; margin-bottom:20px; color:#9c4b0b;}
+.facebook_btn a {background:#3b5998; color:#fff; width:100%; padding:12px 0; display:block; border-radius:3px; font-weight:700; font-size:14px; text-transform:uppercase;}
+.facebook_btn a:hover {background:#2b4988;}
+.facebook_btn a i {margin-right:5px;}
+.facebook_btn {margin:50px 0 30px;}
+.facebook_btn p {margin:30px 0; color:#666666;}
+.form_field input {padding:12px 15px; border-radius:3px; border:1px solid #ccc; display:block; font-weight:700; width:100%; margin-bottom:20px;}
+.form_btn input {background:#9c4b0b; width:100%; padding:12px 0; text-align:center; font-weight:700; text-transform:uppercase; color:#fff; font-size:14px; border-radius:3px; margin-bottom:20px; border:1px solid #783703; cursor:pointer;}
+.form_btn input:hover {background:#783703;}
+.form_inr p {font-size:12px; color:#666;}
+.form_inr p a {color:#9c4b0b; text-decoration:underline;}
+.footer {background:#fff; padding:12px 0; font-size:12px; color:#666; margin-top:30px;}
+.left_link {float:left; padding-left:20px;}
+.right_link {float:right; padding-right:20px;}
+.right_link a:first-child {border-right:1px solid #333;}
+.right_link a {color:#333; padding:0 10px; line-height:10px;}
+.form_field {position:relative;}
+.form_field i {position:absolute; top:13px; right:10px; font-size:14px;}
+.text_success {color:#19ae00;}
+.text_danger {color:#de0000;}
+.text_warning {color:#ec9000;}
+.logo {padding:20px 0; float:left;}
+.navigation {float:right;}
+.btn_top {margin-top:10px; float:right;}
+.btn_top li {float:left; margin-left:10px;}
+.secondary {background:#ff4200; border-radius:3px; padding:8px 16px; font-weight:700; color:#fff; display:block; text-transform:uppercase;}
+.primarybtn {border:1px solid #ff4200; border-radius:3px; padding:8px 16px;font-weight:700; color:#ff4200; display:block; text-transform:uppercase;}
+.btmnavigation {float:right; margin-top:5px;}
+.btmnavigation li {float:left;}
+.btmnavigation li a {padding:10px 12px; display:block; text-transform:capitalize; color:#666; font-size:14px; font-weight:700;}
+.btmnavigation li:last-child a {padding-right:0;}
+.btmnavigation li a:hover {color:#ff4200;}
+.header {background:#fff; border-bottom:3px solid #eeeeee;}
+.top_banner_home {background:url(../images/hime_bnr.jpg) no-repeat fixed; padding:50px 0;}
+.prayer_counter {font-size:35px; font-weight:300; color:#fff; float:left; line-height:35px;}
+.share_facebook_btn {font-weight:700; color:#fff; text-align:center; float:right;}
+.share_facebook_btn a {text-transform:uppercase; color:#fff; font-size:14px; padding:12px 100px; border-radius:3px; background:#3b5998; display:inline-block;}
+.share_facebook_btn i {margin-right:5px;}
+.share_facebook_btn a:hover {background:#25417b;}
+.prayer_box li {margin:7.5px; width:380px; float:left; border:1px solid #ccc;}
+.prayer_content {padding:40px 18px 20px 75px; font-weight:500; font-size:16px; color:#333; font-style:italic; line-height:25px; background:url(../images/quote.png) no-repeat 25px 40px;}
+.prayer_counter_box {background:#f7f7f7; padding:5px 25px;}
+.prayer_counter_box p {display:inline-block; vertical-align:top; margin-left:20px; font-weight:700; font-size:25px; color:#666;}
+.prayer_counter_box p span {font-size:35px; color:#333;}
+.prayer_btn {padding:20px 25px;}
+.like_prayer {display:inline-block; border:1px solid #ff4200; color:#ff4200; font-size:14px; text-transform:uppercase; font-weight:700; padding:8px 20px; border-radius:3px; float:left;}
+.share_fb {float:right; margin-top:10px;}
+.prayer_content a {font-size:14px; text-decoration:underline; color:#ff4200; font-style:normal; display:inline-block; margin-top:5px;}
+.prayer_box {margin:0 -7.5px; padding:30px 0;}
+.load_more {text-align:center; margin:40px 0 0;}
+.load_more a {color:#666; background:#eeeeee; border-radius:3px; padding:12px 16px; font-size:16px; font-weight:500; font-style:italic; display:inline-block;}
+.load_more a:hover {background:#333; color:#fff;}
+.footer {background:#fff; border-top:3px solid #ccc;}
+.ftr_left {float:left;}
+.ftr_right {float:right;}
+.ftr_right li {float:left; padding:0 10px;}
+.ftr_right li a {color:#333; line-height:12px;}
+.ftr_right li:first-child {border-right:1px solid #333;}
+.user_details {float:left; width:100%;}
+.user_pic {margin-left:60px; margin-top:-150px; border:3px solid #fff;; box-shadow:0 0 3px rgba(0,0,0,0.5); float:left; position:relative;}
+.user_pic a {bottom:0; right:0; background:rgba(0,0,0,0.8); padding:5px 10px; color:#fff; position:absolute; text-decoration:underline; font-size:12px;}
+.user_name { padding-top:15px;}
+.user_name p a {color:#ff4200; font-size:20px;}
+.user_name p span {display:block; color:#666;}
+.user_disc { padding-left:20px; float:left;}
+.btn_profile {margin-top:10px;}
+.btn_profile a {color:#333; background:#ccc; border-radius:3px; font-weight:700; padding:12px 20px; display:inline-block; vertical-align:top; margin-right:10px;}
+.user_details {margin-bottom:20px;}
+.btn_profile a.active, .btn_profile a:hover {color:#fff; background:#ff4200;}
+.content_left {float:left; width:60%;}
+.content_right {float:right; width:35%; border:3px solid #fff; box-shadow:0 0 3px rgba(0,0,0,0.5);}
+.aboutus_content {margin-top:30px;}
+.aboutus_content h2 {font-size:35px; font-weight:300; margin-bottom:30px;}
+.content_left h3 {font-size:18px; font-weight:700; color:#333; margin-bottom:20px;}
+.content_left p {font-size:12px; color:#666; margin-bottom:25px;}
